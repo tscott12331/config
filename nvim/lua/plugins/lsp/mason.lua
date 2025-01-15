@@ -25,10 +25,10 @@ return {
                 "cssls",
                 "svelte",
                 "ts_ls",
-                "html",
                 "sqlls",
                 "pyright",
                 "clangd",
+                "html",
             },
 
             automatic_installation = true,
